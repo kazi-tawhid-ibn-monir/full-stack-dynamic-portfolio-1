@@ -71,7 +71,7 @@ a:hover {
     <div class="navbar-container">
         <div class="navbar-flex">
             <div class="navbar-div">
-                <a href="/">Md Jubayer Islam</a>
+                <a href="/">Md Jubayer Islam Anishas</a>
             </div>
  
             <div class="navbar-nav">
